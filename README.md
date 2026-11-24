@@ -16,8 +16,8 @@ On the 120 sentences in `data/test.jsonl`, measured with `evaluate.py` on one NV
 
 ## Links
 
-- Model: 
-- Dataset: 
+- Model: huggingface.co/YegStu/swedish-grammaticality
+- Dataset: huggingface.co/datasets/YegStu/swedish-grammaticality-data
 
 ## Setup
 

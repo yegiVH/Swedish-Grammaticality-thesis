@@ -6,7 +6,7 @@ import torch
 from torch.utils.data import DataLoader
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-MODEL = "my_model"
+MODEL = "YegStu/swedish-grammaticality"
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 
