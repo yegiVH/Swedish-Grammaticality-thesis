@@ -1,2 +1,9 @@
 scores.jsonl
 svr.joblib
+venv/
+my_model/
+my_model_backup/
+checkpoints/
+__pycache__/
+.ipynb_checkpoints/
+data/my_train.jsonl
